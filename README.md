@@ -1,2 +1,2 @@
-# Geographic-administrative-differentiation-exercises
-地理行政分化练习
+# 地理行政分化练习
+这个是初二八上的中国地理行政分化练习，可以让你学会每个省区的形状，有助于做题
